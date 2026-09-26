@@ -38,7 +38,7 @@ I translate code into visual gravity. If your protocol requires a comprehensive 
 * 🎬 **Vimeo / Portfolio:** [Watch Cinematic Showcase](https://vimeo.com/showcase/12263691)
 * 🚀 **DoraHacks:** [View BUIDLs & Hackathons](https://dorahacks.io/hacker/bartscottprod)
 * 🌐 **Website:** [Bart Scott | Web3 Technical Media Director](https://bartscott.carrd.co/)
-* * 📱 **Signal:** `Available upon request`
+* 📱 **Signal:** `Available upon request`
 
 
 
