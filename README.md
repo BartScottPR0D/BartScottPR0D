@@ -33,7 +33,7 @@ I don’t just make videos; I visualize infrastructure. If your protocol needs a
 
 * 🐦 **Twitter (X):** [@BartScottProd](https://x.com/BartScottProd)
 * 👾 **Discord:** [Connect on Discord](https://discord.com/users/632298734679752714)
-* ✈️ **Telegram:** [@BartonScott](https://t.me/BartonScott
+* ✈️ **Telegram:** [@BartonScott](https://t.me/BartonScott)
 * ✉️ **Email:** [bartscott74@gmail.com](mailto:bartscott74@gmail.com)
 * 🎬 **Vimeo / Portfolio:** [Watch Cinematic Showcase](https://vimeo.com/showcase/12263691)
 * 🚀 **DoraHacks:** [View BUIDLs & Hackathons](https://dorahacks.io/hacker/bartscottprod)
