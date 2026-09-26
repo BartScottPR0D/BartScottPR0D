@@ -9,7 +9,7 @@ I bridge the gap between low-latency blockchain infrastructure and elite visual 
 ## 🛠 What I Do
 
 * **Core Engineering & QA:** Designing algorithmic systems, high-frequency trading engines, and performing deep smart contract stress-testing.
-* **Technical Media Architecture:** Translating cutting-edge cryptographic concepts, network topologies, and Web3 infrastructure into high-energy, emotionally engaging 3D/2D visual media.
+* **Technical Media Architecture:** Translating cutting-edge cryptographic concepts, network topologies, and Web3 infrastructure into high-energy, emotionally engaging cinematic pieces.
 
 ---
 
