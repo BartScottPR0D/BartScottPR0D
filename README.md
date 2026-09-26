@@ -1,29 +1,29 @@
-# Hi, I'm Bart Scott ⚡️
+# Bart Scott ⚡️
 
-### Web3 Technical Media Director & High-Performance Rust Engineer
+### Web3 Technical Media Director | High-Performance Rust Engineer
 
-I bridge the gap between low-latency blockchain infrastructure and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to turn complex protocols into visual power that drives user adoption and wins hackathons.
-
----
-
-## 🛠 What I Do
-
-* **Core Engineering & QA:** Designing algorithmic systems, high-frequency trading engines, and performing deep smart contract stress-testing.
-* **Technical Media Architecture:** Translating cutting-edge Web3 infrastructure into high-energy, emotionally engaging cinematic pieces.
+Behind every complex protocol lies a hidden infrastructure. I bridge the gap between low-latency blockchain architecture and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to translate complex code into cinematic power.
 
 ---
 
-## 🚀 Current Focus & Background
+## 🛠 Strategic Execution
+
+* **Core Engineering & QA:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
+* **Technical Media Architecture:** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
+
+---
+
+## 🚀 Current Focus
 
 * **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid** optimized natively in Rust.
-* **Past Work:** Low-latency MEV bot infrastructure on **Solana** (Rust). 
-* **Ecosystem Expertise:** Rust, Solana, EVM, Move, Smart Contract Security & QA.
+* **Background:** Low-latency MEV bot infrastructure on **Solana** (Rust).
+* **Expertise:** Rust, Solana, EVM, Move, Smart Contract Security & QA.
 
 ---
 
-## 🎭 The Cinematic Edge
+## 🎭 The Synergy
 
-I don’t just make videos; I visualize infrastructure. If your protocol needs a bulletproof QA check and a jaw-dropping technical video-demo for a hackathon or a venture pitch — I am the architect you are looking for.
+I translate code into visual gravity. If your protocol requires a comprehensive infrastructure QA check and a precise, high-energy **Cinematic Power promo**, I provide the execution. Built for teams tracking venture scaling and a lasting Web3 legacy.
 
 💬 **Let's build your Web3 legacy together.** Reach out via any of the channels below:
 
