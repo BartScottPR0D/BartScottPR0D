@@ -25,7 +25,19 @@ I bridge the gap between low-latency blockchain infrastructure and elite visual 
 
 I don’t just make videos; I visualize infrastructure. If your protocol needs a bulletproof QA check and a jaw-dropping technical video-demo for a hackathon or a venture pitch — I am the architect you are looking for.
 
-💬 **Let's build your Web3 legacy together.** Drop a DM on Twitter or open an issue.
+💬 **Let's build your Web3 legacy together.** Reach out via any of the channels below:
+
+---
+
+## 🌐 Connect With Me
+
+* 🐦 **Twitter (X):** [@BartScottProd](https://x.com/BartScottProd)
+* 👾 **Discord:** [Connect on Discord](https://discord.com/users/632298734679752714)
+* ✈️ **Telegram:** [@BartonScott](https://t.me/BartonScott)
+* 🎬 **Vimeo / Portfolio:** [Watch Cinematic Showcase](https://vimeo.com/showcase/12263691)
+* 🚀 **DoraHacks:** [View BUIDLs & Hackathons](https://dorahacks.io/hacker/bartscottprod)
+* 🌐 **Website:** [Bart Scott | Web3 Technical Media Director](https://bartscott.carrd.co/)
+
 
 
 <!--
