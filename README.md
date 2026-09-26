@@ -1,4 +1,4 @@
-# Bart Scott ⚡️
+# Hi, Bart Scott here! ⚡️
 
 ### Web3 Technical Media Director | High-Performance Rust Engineer
 
