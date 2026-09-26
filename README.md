@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bart Scott ⚡️
+
+### Web3 Technical Media Director & High-Performance Rust Engineer
+
+I bridge the gap between low-latency blockchain infrastructure and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to turn complex protocols into visual power that drives user adoption and wins hackathons.
+
+---
+
+## 🛠 What I Do
+
+* **Core Engineering & QA:** Designing algorithmic systems, high-frequency trading engines, and performing deep smart contract stress-testing.
+* **Technical Media Architecture:** Translating cutting-edge cryptographic concepts, network topologies, and Web3 infrastructure into high-energy, emotionally engaging 3D/2D visual media.
+
+---
+
+## 🚀 Current Focus & Background
+
+* **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid** optimized natively in Rust.
+* **Past Work:** Low-latency MEV bot infrastructure on **Solana** (Rust). 
+* **Ecosystem Expertise:** Rust, Solana, EVM, Move, Smart Contract Security & QA.
+
+---
+
+## 🎭 The Cinematic Edge
+
+I don’t just make videos; I visualize infrastructure. If your protocol needs a bulletproof QA check and a jaw-dropping technical video-demo for a hackathon or a venture pitch — I am the architect you are looking for.
+
+💬 **Let's build your Web3 legacy together.** Drop a DM on Twitter or open an issue.
+
 
 <!--
 **BartScottPR0D/BartScottPR0D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
