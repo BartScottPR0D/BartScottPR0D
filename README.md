@@ -47,7 +47,7 @@ I'm actively building my own projects as a founder — and I'm looking for colla
 
 I'm interested in people who can think, ship, and care about the craft.
 
-💬 **Let's build your Web3 legacy together.** Reach out via any of the channels below:
+💬 **Let's build our Web3 legacy together.** Reach out via any of the channels below:
 
 ---
 
