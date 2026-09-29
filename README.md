@@ -8,7 +8,7 @@ Behind every complex protocol lies hidden infrastructure. I bridge the gap betwe
 
 ## 🛠 Strategic Execution
 
-* **Core Web3 Code Engineering & QA:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
+* **Core Web3 Code Engineering:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
 * **Technical Media & Cinematic Engineering:** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
 
 ---
@@ -17,7 +17,7 @@ Behind every complex protocol lies hidden infrastructure. I bridge the gap betwe
 
 * **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid**, built natively in Rust.
 * **Background:** Low-latency MEV bot infrastructure on **Solana** (Rust).
-* **Expertise:** Rust, Solana, EVM, Smart Contract Security & QA.
+* **Expertise:** Rust, Solana, EVM, Smart Contract Security, QA.
 
 ---
 
