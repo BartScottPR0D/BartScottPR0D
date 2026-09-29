@@ -2,7 +2,13 @@
 
 ### Web3 Builder & Cinematic Engineer
 
-Behind every complex protocol lies hidden infrastructure. I bridge the gap between blockchain architecture and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to translate complex code into Cinematic Power.
+I build systems. I craft cinema.
+
+Both are creative. Both are precision. Both are me.
+
+I don't choose between code and cinema. I do both.
+
+Low-latency systems, MEV infrastructure, protocol logic — that's my engineering side. Cinematic trailers, motion design, visual storytelling — that's my creative side. But both come from the same place: the need to build something that matters.
 
 ---
 
