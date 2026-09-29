@@ -2,7 +2,7 @@
 
 ### Web3 Builder & Cinematic Engineer
 
-Behind every complex protocol lies a hidden infrastructure. I bridge the gap between low-latency blockchain architecture and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to translate complex code into cinematic power.
+Behind every complex protocol lies a hidden infrastructure. I bridge the gap between blockchain architecture and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to translate complex code into cinematic power.
 
 ---
 
