@@ -2,28 +2,46 @@
 
 ### Web3 Builder & Cinematic Engineer
 
-Behind every complex protocol lies a hidden infrastructure. I bridge the gap between blockchain architecture and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to translate complex code into cinematic power.
+Behind every complex protocol lies hidden infrastructure. I bridge the gap between blockchain architecture and elite visual storytelling. I dual-wield deep engineering logic (Rust/EVM) and cinema-grade motion design to translate complex code into Cinematic Power.
 
 ---
 
 ## 🛠 Strategic Execution
 
 * **Core Web3 Code Engineering & QA:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
-* **Technical Media & Cinematic Engineering :** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
+* **Technical Media & Cinematic Engineering:** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
 
 ---
 
 ## 🚀 Current Focus
 
-* **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid** optimized natively in Rust.
+* **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid**, built natively in Rust.
 * **Background:** Low-latency MEV bot infrastructure on **Solana** (Rust).
-* **Expertise:** Rust, Solana, EVM, Move, Smart Contract Security & QA.
+* **Expertise:** Rust, Solana, EVM, Smart Contract Security & QA.
 
 ---
 
 ## 🎭 The Synergy
 
-I translate code into visual gravity. If your protocol requires a comprehensive infrastructure QA check and a precise, high-energy **Cinematic Power promo**, I provide the execution. Built for teams tracking venture scaling and a lasting Web3 legacy.
+I translate code into visual gravity. If your protocol requires a precise, high-energy **Cinematic Power promo**, I provide the execution. Built for teams scaling toward venture rounds and a lasting Web3 legacy.
+
+💬 **Let's build your Web3 legacy together.** Reach out via any of the channels below:
+
+---
+
+## 🤝 Open To
+
+Beyond cinematic production, I'm open to fullstack engineering roles, strategic partnerships, and long-term technical collaboration. If your protocol needs a builder who understands both the architecture and the story — let's talk.
+
+Whether you're hiring or looking for a technical partner, I'm always open to a conversation.
+
+---
+
+## 🌐 Building Together
+
+I'm actively building my own projects as a founder — and I'm looking for collaborators, not employees. If you're a developer, designer, researcher, or just someone who wants to build real things in Web3, I'd love to connect.
+
+I'm interested in people who can think, ship, and care about the craft.
 
 💬 **Let's build your Web3 legacy together.** Reach out via any of the channels below:
 
