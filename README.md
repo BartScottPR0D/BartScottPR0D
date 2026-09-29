@@ -25,8 +25,6 @@ Behind every complex protocol lies hidden infrastructure. I bridge the gap betwe
 
 I translate code into visual gravity. If your protocol requires a precise, high-energy **Cinematic Power promo**, I provide the execution. Built for teams scaling toward venture rounds and a lasting Web3 legacy.
 
-💬 **Let's build your Web3 legacy together.** Reach out via any of the channels below:
-
 ---
 
 ## 🤝 Open To
