@@ -1,4 +1,4 @@
-# Hi, Bart Scott here! ⚡️
+# Hi, Bart Scott here! 🤘
 
 ### Web3 Builder & Cinematic Engineer
 
