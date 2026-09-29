@@ -8,8 +8,8 @@ Behind every complex protocol lies a hidden infrastructure. I bridge the gap bet
 
 ## 🛠 Strategic Execution
 
-* **Core Engineering & QA:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
-* **Technical Media Architecture:** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
+* **Core Web3 Code Engineering & QA:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
+* **Technical Media & Cinematic Engineering :** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
 
 ---
 
