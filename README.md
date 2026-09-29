@@ -8,7 +8,7 @@ Both are creative. Both are precision. Both are me.
 
 I don't choose between code and cinema. I do both.
 
-Low-latency systems, MEV infrastructure, protocol logic — that's my engineering side. Cinematic trailers, motion design, visual storytelling — that's my creative side. But both come from the same place: the need to build something that matters.
+Low-latency systems, MEV infrastructure, protocol logic — that's my engineering side. Cinematic trailers, motion design, visual storytelling — that's my creative side. But both come from the same place: **the need to build something that matters.**
 
 ---
 
