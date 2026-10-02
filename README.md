@@ -15,7 +15,7 @@ Low-latency systems, MEV infrastructure, protocol logic — that's my engineerin
 ## 🛠 Strategic Execution
 
 * **Core Web3 Code Engineering:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
-* **Technical Media & Cinematic Engineering:** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
+* **Technical Media & Cinematic Engineering:** Translating cutting-edge Web3 infrastructures into precise, high-energy cinematic pieces.
 
 ---
 
@@ -23,7 +23,7 @@ Low-latency systems, MEV infrastructure, protocol logic — that's my engineerin
 
 * **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid**, built natively in Rust.
 * **Background:** Low-latency MEV bot infrastructure on **Solana** (Rust).
-* **Expertise:** Rust, Solana, EVM, Smart Contract Security, QA.
+* **Expertise:** Web3 infrastructures, Rust, Solana, Anchor, TypeScript, Next.js
 
 ---
 
