@@ -1,6 +1,6 @@
 # Hi, Bart Scott here! 🤘
 
-### Web3 Builder & Cinematic Engineer
+### Full-Stack Web3 Builder & Cinematic Engineer
 
 I build systems. I craft cinema.
 
