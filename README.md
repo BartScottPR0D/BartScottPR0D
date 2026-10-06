@@ -14,7 +14,7 @@ Low-latency systems, MEV infrastructure, protocol logic — that's my engineerin
 
 ## 🛠 Strategic Execution
 
-* **Core Web3 Code Engineering:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
+* **Core Web3 Engineering:** Low-latency systems, high-frequency trading engines, and deep protocol logic validation.
 * **Technical Media & Cinematic Engineering:** Translating cutting-edge Web3 infrastructure into precise, high-energy cinematic pieces.
 
 ---
