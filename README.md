@@ -23,7 +23,7 @@ Low-latency systems, MEV infrastructure, protocol logic — that's my engineerin
 
 * **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid**, built natively in Rust.
 * **Background:** Low-latency MEV bot infrastructure on **Solana** (Rust).
-* **Expertise:** Rust, Solana, Anchor, EVM, Web3 infrastructure, TypeScript, Next.js
+* **Expertise:** Rust, Solana, Anchor, EVM, Web3 infrastructure, AI/LLM, TypeScript, Next.js
 
 ---
 
