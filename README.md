@@ -70,6 +70,11 @@ I'm interested in people who can think, ship, and care about the craft.
 
 <!--
 
+ETHGlobal
+Colosseum
+TAIKAI
+Devfolio
+
 * **Expertise:** Rust, Solana, Anchor, Web3 infrastructure, EVM, Solidity, TypeScript, Next.js 
 
 **BartScottPR0D/BartScottPR0D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
