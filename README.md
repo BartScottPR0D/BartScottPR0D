@@ -41,7 +41,7 @@ Whether you're hiring or looking for a technical partner, I'm always open to a c
 
 ---
 
-## 🌐 Building Together
+## 🛠 Building Together
 
 I'm actively building my own projects as a founder — and I'm looking for collaborators, not employees. If you're a developer, designer, researcher, or just someone who wants to build real things in Web3, I'd love to connect.
 
