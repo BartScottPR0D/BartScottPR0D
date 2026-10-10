@@ -58,9 +58,13 @@ I'm interested in people who can think, ship, and care about the craft.
 * ✈️ **Telegram:** [@BartonScott](https://t.me/BartonScott)
 * ✉️ **Email:** [bartscott74@gmail.com](mailto:bartscott74@gmail.com)
 * 🎬 **Vimeo / Video Portfolio:** [Watch Cinematic Showcase](https://vimeo.com/showcase/12263691)
-* 🚀 **DoraHacks:** [View BUIDLs & Hackathons](https://dorahacks.io/hacker/bartscottprod)
 * 🌐 **Website:** [Bart Scott | Web3 Technical Media Director](https://bartscott.carrd.co/)
 * 📱 **Signal:** `Available upon request`
+
+## 🛠 Hackathons & Bounties
+
+* 🚀 **DoraHacks:** [View BUIDLs & Hackathons](https://dorahacks.io/hacker/bartscottprod)
+* 🚀 **Devpost** [Link to my profile](https://devpost.com/BartScottPR0D)
 
 
 
