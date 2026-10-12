@@ -23,7 +23,7 @@ Low-latency systems, MEV infrastructure, protocol logic — that's my engineerin
 
 * **Building Now:** A high-frequency, delta-neutral trading engine for **Hyperliquid**, built natively in Rust.
 * **Background:** Low-latency MEV bot infrastructure on **Solana** (Rust).
-* **Expertise:** Rust, Solana, Anchor, EVM, Web3 infrastructure, AI/LLM, SQL, TypeScript, React, Next.js
+* **Expertise:** Rust, Solana, Anchor, Web3 infrastructure, AI/LLM, SQL, TypeScript, React, Next.js
 
 ---
 
@@ -75,7 +75,7 @@ Colosseum
 TAIKAI
 Devfolio
 
-* **Expertise:** Rust, Solana, Anchor, Web3 infrastructure, EVM, Solidity, TypeScript, Next.js 
+* **Expertise:** , EVM, Rust, Solana, Anchor, Web3 infrastructure, EVM, Solidity, TypeScript, Next.js 
 
 **BartScottPR0D/BartScottPR0D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
