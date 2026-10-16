@@ -77,6 +77,8 @@ Devfolio
 
 * **Expertise:** , EVM, Rust, Solana, Anchor, Web3 infrastructure, EVM, Solidity, TypeScript, Next.js 
 
+AI Agent Engineering | AI Integration | Agentic AI Engineer
+
 **BartScottPR0D/BartScottPR0D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
