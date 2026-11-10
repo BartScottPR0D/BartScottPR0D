@@ -54,8 +54,6 @@ I'm interested in people who can think, ship, and care about the craft.
 ## 🌐 Connect With Me
 
 * 🐦 **Twitter (X):** [@BartScottProd](https://x.com/BartScottProd)
-* 👾 **Discord:** [Connect on Discord](https://discord.com/users/632298734679752714)
-* ✈️ **Telegram:** [@BartonScott](https://t.me/BartonScott)
 * ✉️ **Email:** [bartscott74@gmail.com](mailto:bartscott74@gmail.com)
 * 🎬 **Vimeo / Video Portfolio:** [Watch Cinematic Showcase](https://vimeo.com/showcase/12263691)
 * 🌐 **Website:** [Bart Scott | Web3 Technical Media Director](https://bartscott.carrd.co/)
