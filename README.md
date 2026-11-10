@@ -62,7 +62,7 @@ I'm interested in people who can think, ship, and care about the craft.
 ## 🛠 Hackathons & Bounties
 
 * 🚀 **DoraHacks:** [View BUIDLs & Hackathons](https://dorahacks.io/hacker/bartscottprod)
-* 🚀 **Devpost** [Link to my profile](https://devpost.com/BartScottPR0D)
+
 
 
 
@@ -72,6 +72,8 @@ ETHGlobal
 Colosseum
 TAIKAI
 Devfolio
+
+* 🚀 **Devpost** [Link to my profile](https://devpost.com/BartScottPR0D)
 
 * **Expertise:** , EVM, Rust, Solana, Anchor, Web3 infrastructure, EVM, Solidity, TypeScript, Next.js 
 
